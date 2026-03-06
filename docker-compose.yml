@@ -1,6 +1,0 @@
-version: '3'
-services:
-  aedes_broker:
-    build: ./aedes_broker
-    ports:
-      - "5007:5007"
